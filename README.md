@@ -788,7 +788,10 @@ https://whimsical.com/getting-started-VtQs6Qcdh7qGT85ZvLDvTP
 
 # TIMEFRAMES
 
-HTML 3 HRS
-CSS/MEDIA QUERY 5 HRS
-JAVASCRIPT 15 HRS
+| Component | Priority | Estimated Time | 
+| --- | :---: |  :---: | :---: | :---: |
 
+| HTML | H | 3hrs| 
+| CSS/MEDIA QUERY | H | 5hrs| 
+| Javascript | H | 10hrs| 
+| Total | H | 18hrs| 
