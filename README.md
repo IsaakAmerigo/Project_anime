@@ -8,322 +8,766 @@ First Couch is a tool to keep these people up to date with all the latest anime,
 
 # API & Data Simple
 
-https://cdn.animenewsnetwork.com/encyclopedia/api.xml?anime=4658
+https://api.jikan.moe/v3/search/anime?q=all
 
-
-<anime id="4658" gid="1097470093" type="TV" name="Jinki:Extend" precision="TV" generated-on="2021-06-08T11:02:38Z">
-    <related-prev rel="adapted from" id="4199"/>
-    <info gid="1693214504" type="Picture" src="https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A4658-7.jpg" width="178" height="200">
-      <img src="https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A4658-7.jpg" width="178" height="200"/>
-    </info>
-    <info gid="2849059477" type="Main title" lang="JA">Jinki:Extend</info>
-    <info gid="2660569749" type="Alternative title" lang="RU">Боевые роботы Дзинки</info>
-    <info gid="1675008096" type="Alternative title" lang="JA">ジンキ・エクステンド</info>
-    <info gid="2445949786" type="Genres">drama</info>
-    <info gid="1267102403" type="Genres">science fiction</info>
-    <info gid="253304187" type="Themes">Giant Robots</info>
-    <info gid="1769392376" type="Themes">mecha</info>
-    <info gid="936033876" type="Themes">military</info>
-    <info gid="2421355715" type="Themes">real robot</info>
-    <info gid="2605299806" type="Objectionable content">TA</info>
-    <info gid="3324519232" type="Plot Summary">Aoba is a young girl who loves to build models of robots. She lived alone with her grandmother until her grandmother passes away. Shortly after she is kidnapped and brought to a secret base where she discovers a huge robot. The piloted robots fight against Ancient-Jinki in The Grand Savanna, but the true meaning behind the fights is hidden. Aoba works hard at the base so one day she can pilot one of the robots and discover these secrets.</info>
-    <info gid="2642397968" type="Number of episodes">12</info>
-     <info gid="3079748225" type="Vintage">2005-01-05 to 2005-03-23</info>
-    <info gid="2071198001" type="Opening Theme">&quot;FLY AWAY&quot; by unicorn table</info>
-    <info gid="3833528025" type="Ending Theme">&quot;未来とゆう名の答え (&lt;i&gt;Mirai to yuu na no kotae&lt;/i&gt;)&quot; by angela</info>
-    <info gid="3603908636" type="Official website" lang="EN" href="http://www25.advfilms.com/titles/extend/index_content.html">ADV - Jinki : Extend Offical Site (English)</info>
-    <info gid="2164362191" type="Official website" lang="EN" href="https://www.funimation.com/shows/jinki-extend/">FUNimation's Official Jinki:Extend Website</info>
-    <info gid="2344820708" type="Official website" lang="JA" href="http://www.tv-asahi.co.jp/jinki/">TV Asahi's Official &quot;Jinki: Extend&quot; Website</info>
-    <info gid="1291886456" type="Official website" lang="JA" href="http://www.jinki.info">ジンキ・エクステンド</info>
-    <ratings nb_votes="414" weighted_score="5.9583" bayesian_score="6.00171"/>
-    <episode num="1">
-      <title gid="3095466740" lang="EN">The Battlefield the Girl Saw</title>
-    </episode>
-    <episode num="2">
-      <title gid="1019682570" lang="EN">The Trail of Tears</title>
-    </episode>
-    <episode num="3">
-      <title gid="2879327918" lang="EN">Quality and Quantity</title>
-    </episode>
-    <episode num="4">
-      <title gid="1042118304" lang="EN">Encounter</title>
-    </episode>
-    <episode num="5">
-      <title gid="1323093475" lang="EN">Foes and Friends</title>
-    </episode>
-    <episode num="6">
-      <title gid="3023688674" lang="EN">The Black Operator</title>
-    </episode>
-    <episode num="7">
-      <title gid="2322922310" lang="EN">Fulfilled Ambition</title>
-    </episode>
-    <episode num="8">
-      <title gid="1400916808" lang="EN">The Silver-winged Visitor</title>
-    </episode>
-    <episode num="9">
-      <title gid="2204235069" lang="EN">The Game's Winner</title>
-    </episode>
-    <episode num="10">
-      <title gid="2038411104" lang="EN">Red and Black</title>
-    </episode>
-    <episode num="11">
-      <title gid="250690944" lang="EN">Family</title>
-    </episode>
-    <episode num="12">
-      <title gid="1897449103" lang="EN">Blue and Red</title>
-    </episode>
-    <episode num="13">
-      <title gid="1997989660" lang="EN">And Then</title>
-    </episode>
-    <review href="https://www.animenewsnetwork.com/review/jinki-extend/dvd-3">Jinki:Extend DVD 3</review>
-    <review href="https://www.animenewsnetwork.com/review/jinki-extend/dvd-2">Jinki:Extend DVD 2</review>
-    <review href="https://www.animenewsnetwork.com/review/jinki-extend-1">Jinki:Extend 1</review>
-    <release date="2009-09-08" href="https://www.animenewsnetwork.com/encyclopedia/releases.php?id=14829">Jinki: Extend - Complete Series (DVD)</release>
-    <release date="2010-10-05" href="https://www.animenewsnetwork.com/encyclopedia/releases.php?id=17679">Jinki:Extend - The Complete Series [S.A.V.E. Edition] (DVD)</release>
-    <release date="2006-09-05" href="https://www.animenewsnetwork.com/encyclopedia/releases.php?id=7626">Jinki:Extend (DVD 1)</release>
-    <release date="2006-11-07" href="https://www.animenewsnetwork.com/encyclopedia/releases.php?id=7552">Jinki:Extend (DVD 2)</release>
-    <release date="2007-01-02" href="https://www.animenewsnetwork.com/encyclopedia/releases.php?id=7874">Jinki:Extend (DVD 3)</release>
-    <release date="2008-01-01" href="https://www.animenewsnetwork.com/encyclopedia/releases.php?id=10390">Jinki:Extend - Complete Collection (DVD 1-3)</release>
-    <news datetime="2007-08-10T15:58:20Z" href="https://www.animenewsnetwork.com/news/2007-08-10/unicorn-table-to-perform-at-new-york-anime-festival">Unicorn Table to Perform at New York Anime Festival</news>
-    <news datetime="2007-09-13T13:15:35Z" href="https://www.animenewsnetwork.com/news/2007-09-13/uk's-propeller-tv-expands-anime-network-to-daily-block">UK's Propeller TV Expands Anime Network to Daily Block</news>
-    <news datetime="2007-09-18T13:43:40Z" href="https://www.animenewsnetwork.com/news/2007-09-18/virginia's-akiba-fest-ball-hosts-salia-psychic-lover">Virginia's Akiba Fest Ball Hosts Salia, Psychic Lover</news>
-    <news datetime="2008-01-22T18:55:16Z" href="https://www.animenewsnetwork.com/news/2008-01-22/adv-films-uk-switches-from-us-run-office-to-uk-partner">ADV Films UK Switches from US-Run Office to UK Partner</news>
-    <news datetime="2008-01-30T19:45:30Z" href="https://www.animenewsnetwork.com/news/2008-01-30/adv-films-removes-titles-from-website-update">ADV Films Removes Titles from Website - Update</news>
-    <news datetime="2008-02-20T01:34:59Z" href="https://www.animenewsnetwork.com/news/2008-02-19/unicorn-table-to-play-at-western-new-york-tora-con">Unicorn Table to Play at Western New York's Tora-Con</news>
-    <news datetime="2008-06-11T17:57:28Z" href="https://www.animenewsnetwork.com/news/2008-06-11/shonen-gangan-details-gainax-shikabane-hime-aka-anime">&lt;cite&gt;Shonen Gangan&lt;/cite&gt; Details Gainax's &lt;cite&gt;Shikabane Hime: Aka&lt;/cite&gt; Anime</news>
-    <news datetime="2008-07-04T13:01:00Z" href="https://www.animenewsnetwork.com/news/2008-07-04/funimation-picks-up-over-30-former-ad-vision-titles">Funimation Picks Up Over 30 Former AD Vision Titles</news>
-    <news datetime="2010-02-09T20:38:08Z" href="https://www.animenewsnetwork.com/news/2010-02-09/dubbed-strike-witches-wallflower-halo-clip-posted">Dubbed &lt;cite&gt;Strike Witches, Wallflower, Halo&lt;/cite&gt; Clip Posted</news>
-    <news datetime="2010-02-18T03:16:26Z" href="https://www.animenewsnetwork.com/news/2010-02-17/crunchyroll-funimation-stream-shinkai-works-moeyo-ken">Crunchyroll, Funimation Stream Shinkai Works, &lt;cite&gt;Moeyo Ken&lt;/cite&gt;</news>
-    <news datetime="2010-03-04T12:00:00Z" href="https://www.animenewsnetwork.com/news/2010-03-04/shattered-angels-gunslinger-girl-ova-more-streamed">&lt;cite&gt;Shattered Angels, Gunslinger Girl&lt;/cite&gt; OVA, More Streamed</news>
-    <news datetime="2010-10-05T14:07:52Z" href="https://www.animenewsnetwork.com/news/2010-10-05/north-american-anime-manga-releases-october-3-9">North American Anime, Manga Releases, October 3-9</news>
-    <news datetime="2011-02-23T22:38:44Z" href="https://www.animenewsnetwork.com/news/2011-02-23/unicorn-table-singers-to-perform-at-ayacon-warwick">Unicorn Table singers to perform at Ayacon, Warwick</news>
-    <news datetime="2011-06-18T03:57:00Z" href="https://www.animenewsnetwork.com/news/2011-06-17/north-american-stream-list/june-10-17">North American Stream List: June 10-17</news>
-    <news datetime="2012-01-30T22:00:00Z" href="https://www.animenewsnetwork.com/news/2012-01-30/adv-court-documents-reveal-amounts-paid-for-29-anime-titles">ADV Court Documents Reveal Amounts Paid for 29 Anime Titles</news>
-    <staff gid="1560974500">
-      <task>Director</task>
-      <person id="3610">Masahiko Murata</person>
-    </staff>
-    <staff gid="2111742793">
-      <task>Script</task>
-      <person id="668">Hiroyuki Kawasaki</person>
-    </staff>
-    <staff gid="2939729004">
-      <task>Script</task>
-      <person id="3086">Naruhisa Arakawa</person>
-    </staff>
-    <staff gid="2553309728">
-      <task>Script</task>
-      <person id="68814">Hitomi Amamiya</person>
-    </staff>
-    <staff gid="1759898295">
-      <task>Storyboard</task>
-      <person id="4422">Kinji Yoshimoto</person>
-    </staff>
-    <staff gid="1801311718">
-      <task>Storyboard</task>
-      <person id="8476">Satoshi Saga</person>
-    </staff>
-    <staff gid="2219649140">
-      <task>Episode Director</task>
-      <person id="8476">Satoshi Saga</person>
-    </staff>
-    <staff gid="714854657">
-      <task>Music</task>
-      <person id="140">Kenji Kawai</person>
-    </staff>
-    <staff gid="1082163268">
-      <task>Original Manga</task>
-      <person id="27743">Sirou Tunasima</person>
-    </staff>
-    <staff gid="2230005074">
-      <task>Character Design</task>
-      <person id="15209">Naoto Hosoda</person>
-    </staff>
-    <staff gid="1938405310">
-      <task>Art Director</task>
-      <person id="7353">Naoko Kosakabe</person>
-    </staff>
-    <staff gid="1701314492">
-      <task>Animation Director</task>
-      <person id="4240">Masami Obari</person>
-    </staff>
-    <staff gid="1515756879">
-      <task>Animation Director</task>
-      <person id="15209">Naoto Hosoda</person>
-    </staff>
-    <staff gid="3250390369">
-      <task>Animation Director</task>
-      <person id="66640">Hiroki Mutaguchi</person>
-    </staff>
-    <staff gid="3076790874">
-      <task>Mechanical design</task>
-      <person id="17992">Katsuyuki Tamura</person>
-    </staff>
-    <staff gid="2676225977">
-      <task>Sound Director</task>
-      <person id="424">Kazuhiro Wakabayashi</person>
-    </staff>
-    <staff gid="1843996024">
-      <task>Director of Photography</task>
-      <person id="7454">Yasuhisa Kondo</person>
-    </staff>
-    <staff gid="3311864319">
-      <task>Producer</task>
-      <person id="46074">Hedwig Schleck</person>
-    </staff>
-    <staff gid="841413005">
-      <task>Producer</task>
-      <person id="48371">Makoto Takigasaki</person>
-    </staff>
-    <staff gid="2405542094">
-      <task>Producer</task>
-      <person id="55498">Shigeru Tateishi</person>
-    </staff>
-    <cast gid="2661476283" lang="EN">
-      <role>Mel J</role>
-      <person id="1062">Christine Auten</person>
-    </cast>
-    <cast gid="2408482882" lang="EN">
-      <role>Ryohei Ogawara</role>
-      <person id="1064">Jason Douglas</person>
-    </cast>
-    <cast gid="3934354050" lang="EN">
-      <role>Shizuka Tsuzaki</role>
-      <person id="2074">Monica Rial</person>
-    </cast>
-    <cast gid="2680047095" lang="EN">
-      <role>Hiroshi Kawamoto</role>
-      <person id="2517">Chris Patton</person>
-    </cast>
-    <cast gid="2380683277" lang="EN">
-      <role>Genta Ogawara</role>
-      <person id="2525">John Swasey</person>
-    </cast>
-    <cast gid="1654830201" lang="EN">
-      <role>Elnie Tachibana</role>
-      <person id="3516">Cynthia Martinez</person>
-    </cast>
-    <cast gid="3853972106" lang="EN">
-      <role>Shiva</role>
-      <person id="3660">Kira Vincent-Davis</person>
-    </cast>
-    <cast gid="1910080947" lang="EN">
-      <role>Minami Kosaka</role>
-      <person id="4919">Shelley Calene-Black</person>
-    </cast>
-    <cast gid="3531999063" lang="EN">
-      <role>Akao Hiiragi</role>
-      <person id="7798">Jessica Boone</person>
-    </cast>
-    <cast gid="2391728390" lang="EN">
-      <role>Rui Kosaka</role>
-      <person id="12493">Luci Christian</person>
-    </cast>
-    <cast gid="1409390351" lang="EN">
-      <role>Satsuki Kawamoto</role>
-      <person id="13929">Allison Sumrall</person>
-    </cast>
-    <cast gid="3131068072" lang="EN">
-      <role>Hideo Koyatani</role>
-      <person id="14187">Nomed Kaerf</person>
-    </cast>
-    <cast gid="2876815189" lang="EN">
-      <role>Yasuyuki Nishihara</role>
-      <person id="37623">Blake Shepard</person>
-    </cast>
-    <cast gid="1384221282" lang="EN">
-      <role>Aoba Tsuzaki</role>
-      <person id="44595">Brittney Karbowski</person>
-    </cast>
-    <cast gid="1792866004" lang="JA">
-      <role>Shizuka Tsuzaki</role>
-      <person id="278">Satsuki Yukino</person>
-    </cast>
-    <cast gid="2156350370" lang="JA">
-      <role>Genta Ogawara</role>
-      <person id="458">Rokurō Naya</person>
-    </cast>
-    <cast gid="3448852547" lang="JA">
-      <role>Rui Kōsaka</role>
-      <person id="524">Yukari Tamura</person>
-    </cast>
-    <cast gid="1756973665" lang="JA">
-      <role>Elnie Tachibana</role>
-      <person id="526">Tomoko Kawakami</person>
-    </cast>
-    <cast gid="1626578526" lang="JA">
-      <role>Aoba Tsuzaki</role>
-      <person id="912">Fumiko Orikasa</person>
-    </cast>
-    <cast gid="1410696507" lang="JA">
-      <role>Minami Kōsaka</role>
-      <person id="1588">Yoshino Takamori</person>
-    </cast>
-    <cast gid="3084421961" lang="JA">
-      <role>Ryouhei Ogawara</role>
-      <person id="7629">Takuma Takewaka</person>
-    </cast>
-    <cast gid="3270154068" lang="JA">
-      <role>Mel J Vanette</role>
-      <person id="9961">Junko Minagawa</person>
-    </cast>
-    <cast gid="3151376498" lang="JA">
-      <role>Satsuki Kawamoto</role>
-      <person id="13321">Ai Nonaka</person>
-    </cast>
-    <cast gid="2690394696" lang="JA">
-      <role>Akao Hiiragi</role>
-      <person id="37191">Yuuna Inamura</person>
-    </cast>
-    <cast gid="1216199898" lang="TL">
-      <role>Genta Ogawara</role>
-      <person id="38935">Louie Paraboles</person>
-    </cast>
-    <cast gid="3162120279" lang="TL">
-      <role>Ryouhei Ogawara</role>
-      <person id="38935">Louie Paraboles</person>
-    </cast>
-    <cast gid="1449215999" lang="TL">
-      <role>Aoba Tsuzaki</role>
-      <person id="39024">Grace Cornel</person>
-    </cast>
-    <cast gid="2741462152" lang="TL">
-      <role>Minami Kosaka</role>
-      <person id="39024">Grace Cornel</person>
-    </cast>
-    <cast gid="867204356" lang="TL">
-      <role>Akao Hiiragi</role>
-      <person id="39656">Sherwin Revestir</person>
-    </cast>
-    <cast gid="533292258" lang="TL">
-      <role>Shizuka Tsuzaki</role>
-      <person id="39656">Sherwin Revestir</person>
-    </cast>
-    <cast gid="2304322786" lang="TL">
-      <role>Rui Kosaka</role>
-      <person id="42183">Justeen Niebres</person>
-    </cast>
-    <cast gid="1655325149" lang="TL">
-      <role>Shiva</role>
-      <person id="42183">Justeen Niebres</person>
-    </cast>
-    <credit gid="2489952245">
-      <task>Animation Production</task>
-      <company id="8883">feel.</company>
-    </credit>
-    <credit gid="2919332591">
-      <task>Production</task>
-      <company id="160">TV Asahi</company>
-    </credit>
-    <credit gid="1743771520">
-      <task>Production</task>
-      <company id="1850">GANSIS</company>
-    </credit>
-    <credit gid="2207693755">
-      <task>Production</task>
-      <company id="8883">feel.</company>
-    </credit>
-  </anime>
+{
+  "request_hash": "request:search:d747e095ad925c8a99b7275c1d113f1b3c9e5f13",
+  "request_cached": true,
+  "request_cache_expiry": 89814,
+  "results": [
+    {
+      "mal_id": 31588,
+      "url": "https:\/\/myanimelist.net\/anime\/31588\/All_Out",
+      "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/4\/78649.jpg?s=f6f836c1beebc4e725fa3dc943b8cdeb",
+      "title": "All Out!!",
+      "airing": false,
+      "synopsis": "Rugby is a sport where anybody can be a star when they hold the ball. The rules are simple: one player has to carry the ball past the goalposts across the field while avoiding the other team, who are...",
+      "type": "TV",
+      "episodes": 25,
+      "score": 7.07,
+      "start_date": "2016-10-07T00:00:00+00:00",
+      "end_date": "2017-03-31T00:00:00+00:00",
+      "members": 93719,
+      "rated": "PG-13"
+    },
+    {
+      "mal_id": 3549,
+      "url": "https:\/\/myanimelist.net\/anime\/3549\/Allison_to_Lillia",
+      "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/9\/50491.jpg?s=b829d819916b0b0802dc2d000d0ac1f5",
+      "title": "Allison to Lillia",
+      "airing": false,
+      "synopsis": "Set in a continent divided into two commonwealths that have been engaged in war for hundreds of years, Allison and Will go on a mission to search \"the treasure that will put an end to the war\". Their...",
+      "type": "TV",
+      "episodes": 26,
+      "score": 7.34,
+      "start_date": "2008-04-03T00:00:00+00:00",
+      "end_date": "2008-10-02T00:00:00+00:00",
+      "members": 38906,
+      "rated": "PG-13"
+    },
+    {
+      "mal_id": 5270,
+      "url": "https:\/\/myanimelist.net\/anime\/5270\/All_That_Gundam",
+      "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/4\/64997.jpg?s=4cee9e0f5f7a86a248028ebb92d605f2",
+      "title": "All That Gundam",
+      "airing": false,
+      "synopsis": "Animated video created just for a 1989 event that featured all the major mobile suit robots from the first 10 years of the Gundam anime franchise. (Source: ANN)",
+      "type": "Special",
+      "episodes": 1,
+      "score": 5.8,
+      "start_date": "1989-01-01T00:00:00+00:00",
+      "end_date": "1989-01-01T00:00:00+00:00",
+      "members": 4548,
+      "rated": "G"
+    },
+    {
+      "mal_id": 36092,
+      "url": "https:\/\/myanimelist.net\/anime\/36092\/Alluptoyou",
+      "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/13\/87218.jpg?s=635e808cf8c39522236fb55f5eb727f3",
+      "title": "Alluptoyou",
+      "airing": false,
+      "synopsis": "Official music video for Mndsgn's song Alluptoyou also released on their \"Body Wash\" album.",
+      "type": "Music",
+      "episodes": 1,
+      "score": 5.11,
+      "start_date": "2016-10-12T00:00:00+00:00",
+      "end_date": "2016-10-12T00:00:00+00:00",
+      "members": 293,
+      "rated": "G"
+    },
+    {
+      "mal_id": 17901,
+      "url": "https:\/\/myanimelist.net\/anime\/17901\/All_Alone_With_You",
+      "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/6\/47703.jpg?s=eef3040c443b26416c8f7096bc66b18e",
+      "title": "All Alone With You",
+      "airing": false,
+      "synopsis": "\"All Alone With You\" is the fourth single by the music group EGOIST and is used as the second ending theme song of Psycho-Pass. The limited edition release includes a DVD with an animated music video.",
+      "type": "Music",
+      "episodes": 1,
+      "score": 7.23,
+      "start_date": "2013-03-06T00:00:00+00:00",
+      "end_date": "2013-03-06T00:00:00+00:00",
+      "members": 15788,
+      "rated": "G"
+    },
+    {
+      "mal_id": 30128,
+      "url": "https:\/\/myanimelist.net\/anime\/30128\/Allargando_The_Animation",
+      "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1178\/103801.jpg?s=8f28f97a605c76d43660a5c00dd9cf23",
+      "title": "Allargando The Animation",
+      "airing": false,
+      "synopsis": "An-chan who works at a maid masseuse parlor pampers her crush and client Koide-kun exclusively. He might not be the coolest or the most confident like his friend Sataki-kun, but guess which one she lo...",
+      "type": "OVA",
+      "episodes": 1,
+      "score": 6.37,
+      "start_date": "2015-05-22T00:00:00+00:00",
+      "end_date": "2015-05-22T00:00:00+00:00",
+      "members": 5406,
+      "rated": "Rx"
+    },
+    {
+      "mal_id": 41405,
+      "url": "https:\/\/myanimelist.net\/anime\/41405\/Bakugan__Armored_Alliance",
+      "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1234\/106364.jpg?s=a7ebac07b33638ac0115d7dd395d81e9",
+      "title": "Bakugan: Armored Alliance",
+      "airing": false,
+      "synopsis": "Second season of Bakugan: Battle Planet.",
+      "type": "TV",
+      "episodes": 52,
+      "score": 5.64,
+      "start_date": "2020-04-03T00:00:00+00:00",
+      "end_date": "2021-03-26T00:00:00+00:00",
+      "members": 2117,
+      "rated": "PG"
+    },
+    {
+      "mal_id": 26213,
+      "url": "https:\/\/myanimelist.net\/anime\/26213\/Free__Eternal_Summer_-_Kindan_no_All_Hard",
+      "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/6\/73125.jpg?s=e2d20e0cb2b77041ad06482b6144e658",
+      "title": "Free!: Eternal Summer - Kindan no All Hard!",
+      "airing": false,
+      "synopsis": "Unaired episode included with volume 7 of the Blu-ray\/DVD.",
+      "type": "Special",
+      "episodes": 1,
+      "score": 7.92,
+      "start_date": "2015-03-18T00:00:00+00:00",
+      "end_date": "2015-03-18T00:00:00+00:00",
+      "members": 78717,
+      "rated": "PG-13"
+    },
+    {
+      "mal_id": 10271,
+      "url": "https:\/\/myanimelist.net\/anime\/10271\/Gyakkyou_Burai_Kaiji__Hakairoku-hen",
+      "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/10\/30599.jpg?s=46f357b7a742626af83e557dbe4e37ba",
+      "title": "Gyakkyou Burai Kaiji: Hakairoku-hen",
+      "airing": false,
+      "synopsis": "Owing to an increasing debt, Kaiji Itou ends up resuming his old lifestyle. One day, while walking on the street, he stumbles upon Yuuji Endou, who is hunting Kaiji due to the money he owes to the Tei...",
+      "type": "TV",
+      "episodes": 26,
+      "score": 8.25,
+      "start_date": "2011-04-06T00:00:00+00:00",
+      "end_date": "2011-09-28T00:00:00+00:00",
+      "members": 148308,
+      "rated": "R"
+    },
+    {
+      "mal_id": 45643,
+      "url": "https:\/\/myanimelist.net\/anime\/45643\/With_All_Our_Hearts",
+      "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1680\/113828.jpg?s=3edb3e2f44dd7637752b056834660f52",
+      "title": "With All Our Hearts",
+      "airing": false,
+      "synopsis": "Kanazawa College of Art is scheduled to move to a new campus in 2023. In December 2020, the short animation \"With All Our Hearts\" was completed with the aim of publicizing the new campus. This work wa...",
+      "type": "ONA",
+      "episodes": 1,
+      "score": 0,
+      "start_date": "2021-01-06T00:00:00+00:00",
+      "end_date": "2021-01-06T00:00:00+00:00",
+      "members": 253,
+      "rated": "G"
+    },
+    {
+      "mal_id": 35413,
+      "url": "https:\/\/myanimelist.net\/anime\/35413\/Imouto_sae_Ireba_Ii",
+      "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/10\/88472.jpg?s=9322a0e1bea0842a323ab8097e13a3e4",
+      "title": "Imouto sae Ireba Ii.",
+      "airing": false,
+      "synopsis": "Itsuki Hashima is a light novelist obsessed with little sisters, strictly focusing on them when he writes his stories. Despite his personality, he is surrounded by a tight circle of friends: Nayuta Ka...",
+      "type": "TV",
+      "episodes": 12,
+      "score": 7.35,
+      "start_date": "2017-10-08T00:00:00+00:00",
+      "end_date": "2017-12-24T00:00:00+00:00",
+      "members": 248128,
+      "rated": "PG-13"
+    },
+    {
+      "mal_id": 5164,
+      "url": "https:\/\/myanimelist.net\/anime\/5164\/Macross_25th_Anniversary__All_That_VF_Macross_Zero_Version",
+      "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/4\/13250.jpg?s=8830310855da5f48e11f16e3d7103f18",
+      "title": "Macross 25th Anniversary: All That VF Macross Zero Version",
+      "airing": false,
+      "synopsis": "Short movie about the Macross Zero Variable Fighters.",
+      "type": "ONA",
+      "episodes": 1,
+      "score": 6.23,
+      "start_date": "2008-07-25T00:00:00+00:00",
+      "end_date": "2008-07-25T00:00:00+00:00",
+      "members": 2950,
+      "rated": "PG-13"
+    },
+    {
+      "mal_id": 40246,
+      "url": "https:\/\/myanimelist.net\/anime\/40246\/Love_Live_School_Idol_Festival_All_Stars",
+      "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1943\/102566.jpg?s=ee1acbaeba020facc8222ac847212b6f",
+      "title": "Love Live! School Idol Festival All Stars",
+      "airing": false,
+      "synopsis": "Special short to promote the release of the Love Live! School Idol Festival All Stars game.",
+      "type": "ONA",
+      "episodes": 1,
+      "score": 7.15,
+      "start_date": "2018-09-19T00:00:00+00:00",
+      "end_date": "2018-09-19T00:00:00+00:00",
+      "members": 3495,
+      "rated": "PG-13"
+    },
+    {
+      "mal_id": 3519,
+      "url": "https:\/\/myanimelist.net\/anime\/3519\/Garakuta-doori_no_Stain",
+      "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/11\/67227.jpg?s=3b50d497b907dd01d159d8e14cb6ee6c",
+      "title": "Garakuta-doori no Stain",
+      "airing": false,
+      "synopsis": "Mr. Stain, an artist\/inventor, and his cat friend, Palvan, have numerous adventures concerning art supplies and junk found in Junk Alley. (Source: ANN)",
+      "type": "TV",
+      "episodes": 13,
+      "score": 6.54,
+      "start_date": "2003-01-06T00:00:00+00:00",
+      "end_date": "2003-03-25T00:00:00+00:00",
+      "members": 1122,
+      "rated": "PG"
+    },
+    {
+      "mal_id": 22215,
+      "url": "https:\/\/myanimelist.net\/anime\/22215\/Pretty_Rhythm__All_Star_Selection",
+      "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/12\/60581.jpg?s=02b7927bb36abb7e072d72395bb41ab3",
+      "title": "Pretty Rhythm: All Star Selection",
+      "airing": false,
+      "synopsis": "This is the fourth anime series of Pretty Rhythm. The story features a girl named Laala Manaka, who desires to become an Idol. To further her debut the best, the three main protagonists from the previ...",
+      "type": "TV",
+      "episodes": 11,
+      "score": 6.39,
+      "start_date": "2014-04-05T00:00:00+00:00",
+      "end_date": "2014-06-14T00:00:00+00:00",
+      "members": 2602,
+      "rated": "PG"
+    },
+    {
+      "mal_id": 10549,
+      "url": "https:\/\/myanimelist.net\/anime\/10549\/Precure_All_Stars_GoGo_Dream_Live",
+      "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/2\/30615.jpg?s=776b2d337f13635eb7a8e625f4ca5acb",
+      "title": "Precure All Stars GoGo Dream Live!",
+      "airing": false,
+      "synopsis": "A special included in the Eiga Yes! Precure 5 GoGo! Okashi no Kuni no Happy Birthday movie.",
+      "type": "Special",
+      "episodes": 1,
+      "score": 6.84,
+      "start_date": "2008-11-08T00:00:00+00:00",
+      "end_date": "2008-11-08T00:00:00+00:00",
+      "members": 3243,
+      "rated": "G"
+    },
+    {
+      "mal_id": 5165,
+      "url": "https:\/\/myanimelist.net\/anime\/5165\/Macross_25th_Anniversary__All_That_VF_Macross_F_Version",
+      "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/11\/11346.jpg?s=da6c3148c38a2e34736a5be05ca763b6",
+      "title": "Macross 25th Anniversary: All That VF Macross F Version",
+      "airing": false,
+      "synopsis": "Short movie about the Variable Fighters in Macross F.",
+      "type": "ONA",
+      "episodes": 1,
+      "score": 6.3,
+      "start_date": "2008-08-01T00:00:00+00:00",
+      "end_date": "2008-08-01T00:00:00+00:00",
+      "members": 3160,
+      "rated": "PG-13"
+    },
+    {
+      "mal_id": 28511,
+      "url": "https:\/\/myanimelist.net\/anime\/28511\/Precure_All_Stars_Movie__Haru_no_Carnival♪",
+      "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/10\/68833.jpg?s=161cfa940a7beffe6dc41366f05062c0",
+      "title": "Precure All Stars Movie: Haru no Carnival♪",
+      "airing": false,
+      "synopsis": "New Precure All Stars movie.",
+      "type": "Movie",
+      "episodes": 1,
+      "score": 6.43,
+      "start_date": "2015-03-14T00:00:00+00:00",
+      "end_date": "2015-03-14T00:00:00+00:00",
+      "members": 2641,
+      "rated": "G"
+    },
+    {
+      "mal_id": 41611,
+      "url": "https:\/\/myanimelist.net\/anime\/41611\/Wan_Sheng_Jie",
+      "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1854\/106930.jpg?s=66b0bffcb927718954609c138937b5f2",
+      "title": "Wan Sheng Jie",
+      "airing": false,
+      "synopsis": "In this world, angels, demons, and other supernatural beings peacefully coexist with humans. Neil Bowman is a demon who is unlike most; he is mesmerized with human culture, and no matter how hard he t...",
+      "type": "ONA",
+      "episodes": 12,
+      "score": 7.98,
+      "start_date": "2020-04-01T00:00:00+00:00",
+      "end_date": "2020-05-27T00:00:00+00:00",
+      "members": 9530,
+      "rated": "PG-13"
+    },
+    {
+      "mal_id": 39643,
+      "url": "https:\/\/myanimelist.net\/anime\/39643\/Shoujo☆Conto_All_Starlight",
+      "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1776\/102092.jpg?s=d9ea8d0691205f5c043abb7e34b8960b",
+      "title": "Shoujo☆Conto All Starlight",
+      "airing": false,
+      "synopsis": "Chibi shorts based on Shoujo☆Kageki Revue Starlight.",
+      "type": "ONA",
+      "episodes": 26,
+      "score": 6.17,
+      "start_date": "2019-07-05T00:00:00+00:00",
+      "end_date": "2019-12-27T00:00:00+00:00",
+      "members": 2389,
+      "rated": "PG-13"
+    },
+    {
+      "mal_id": 48859,
+      "url": "https:\/\/myanimelist.net\/anime\/48859\/Pretty_All_Friends_Selection",
+      "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1968\/114657.jpg?s=9e829781398bec81ff2203f482428461",
+      "title": "Pretty All Friends Selection",
+      "airing": true,
+      "synopsis": "",
+      "type": "TV",
+      "episodes": 0,
+      "score": 0,
+      "start_date": "2021-06-01T00:00:00+00:00",
+      "end_date": null,
+      "members": 361,
+      "rated": "PG"
+    },
+    {
+      "mal_id": 38768,
+      "url": "https:\/\/myanimelist.net\/anime\/38768\/Black_Clover__Jump_Festa_2018_Special",
+      "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1585\/96894.jpg?s=28b684caa92ebdb894d36c80bffb2c67",
+      "title": "Black Clover: Jump Festa 2018 Special",
+      "airing": false,
+      "synopsis": "The special episode features the captains of the different squads plus Asta and Yuno participating in a quiz show.",
+      "type": "Special",
+      "episodes": 1,
+      "score": 6.23,
+      "start_date": "2018-11-25T00:00:00+00:00",
+      "end_date": "2018-11-25T00:00:00+00:00",
+      "members": 19998,
+      "rated": "PG-13"
+    },
+    {
+      "mal_id": 8133,
+      "url": "https:\/\/myanimelist.net\/anime\/8133\/Precure_All_Stars_Movie_DX2__Kibou_no_Hikari☆Rainbow_Jewel_wo_Mamore",
+      "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/9\/20237.jpg?s=56346a8ff57e2844fbf4af09cd18da26",
+      "title": "Precure All Stars Movie DX2: Kibou no Hikari☆Rainbow Jewel wo Mamore!",
+      "airing": false,
+      "synopsis": "Tsubomi Hanasaki is woken by her best friend Erika Kurumi only to find out that their two fairies, Coffret and Shypre, have left just leaving a note explaining where to find them. Fairy Park is not on...",
+      "type": "Movie",
+      "episodes": 1,
+      "score": 7.14,
+      "start_date": "2010-03-20T00:00:00+00:00",
+      "end_date": "2010-03-20T00:00:00+00:00",
+      "members": 5350,
+      "rated": "G"
+    },
+    {
+      "mal_id": 16442,
+      "url": "https:\/\/myanimelist.net\/anime\/16442\/Precure_All_Stars_Movie_New_Stage_2__Kokoro_no_Tomodachi",
+      "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/2\/44386.jpg?s=065f7287f9594825203bb86fbf6b4058",
+      "title": "Precure All Stars Movie New Stage 2: Kokoro no Tomodachi",
+      "airing": false,
+      "synopsis": "One day, the Pretty Cures receive an invitation to a party in their honor. Everyone is heading to the party venue, the school of fairies, but awaits a mysterious shadow. The shadow steals transformati...",
+      "type": "Movie",
+      "episodes": 1,
+      "score": 7.13,
+      "start_date": "2013-03-16T00:00:00+00:00",
+      "end_date": "2013-03-16T00:00:00+00:00",
+      "members": 3792,
+      "rated": "G"
+    },
+    {
+      "mal_id": 5753,
+      "url": "https:\/\/myanimelist.net\/anime\/5753\/Precure_All_Stars_Movie_DX__Minna_Tomodachi☆Kiseki_no_Zenin_Daishuugou",
+      "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/2\/20243.jpg?s=5af934a5ee7ac455a1b217eda15cd9b3",
+      "title": "Precure All Stars Movie DX: Minna Tomodachi☆Kiseki no Zenin Daishuugou!",
+      "airing": false,
+      "synopsis": "Love, Miki and Inori are on their way to a dance contest, but get lost on their way to Minato Mirai. Still looking for their way, they are attacked by a monster. When the three Fresh Precure girls sta...",
+      "type": "Movie",
+      "episodes": 1,
+      "score": 7.26,
+      "start_date": "2009-03-20T00:00:00+00:00",
+      "end_date": "2009-03-20T00:00:00+00:00",
+      "members": 5084,
+      "rated": "G"
+    },
+    {
+      "mal_id": 31266,
+      "url": "https:\/\/myanimelist.net\/anime\/31266\/Wall",
+      "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/2\/75695.jpg?s=54a819ae7fc2f7f319801382b882c94b",
+      "title": "Wall",
+      "airing": false,
+      "synopsis": "Film by Takashi Ito.",
+      "type": "Movie",
+      "episodes": 1,
+      "score": 5.22,
+      "start_date": "1987-01-01T00:00:00+00:00",
+      "end_date": "1987-01-01T00:00:00+00:00",
+      "members": 393,
+      "rated": "G"
+    },
+    {
+      "mal_id": 37611,
+      "url": "https:\/\/myanimelist.net\/anime\/37611\/Future_Card_Buddyfight_Battsu__All-Star_Fight",
+      "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1924\/95069.jpg?s=94f151f9af76ef0e9e805d71ef0567e9",
+      "title": "Future Card Buddyfight Battsu: All-Star Fight",
+      "airing": false,
+      "synopsis": "The fifth season of Future Card Buddyfight.",
+      "type": "TV",
+      "episodes": 8,
+      "score": 6.67,
+      "start_date": "2018-04-07T00:00:00+00:00",
+      "end_date": "2018-05-26T00:00:00+00:00",
+      "members": 1557,
+      "rated": "PG"
+    },
+    {
+      "mal_id": 33957,
+      "url": "https:\/\/myanimelist.net\/anime\/33957\/Danball_Senki_Wars__All_Star_Battle",
+      "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/13\/85520.jpg?s=b371127da3796c0779515965ba25078c",
+      "title": "Danball Senki Wars: All Star Battle",
+      "airing": false,
+      "synopsis": "Arata Sena is unable to leave the island after he forgets to have his permission form signed. However, he gets an even better opportunity: facing off against LBX legend Ban Yamano.",
+      "type": "Special",
+      "episodes": 1,
+      "score": 6.34,
+      "start_date": "2014-02-27T00:00:00+00:00",
+      "end_date": "2014-02-27T00:00:00+00:00",
+      "members": 670,
+      "rated": "G"
+    },
+    {
+      "mal_id": 38699,
+      "url": "https:\/\/myanimelist.net\/anime\/38699\/Boku_no_Hero_Academia_the_Movie__Futari_no_Hero_Specials",
+      "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1420\/96793.jpg?s=2656ddc3db890c87027c33932e8dff5c",
+      "title": "Boku no Hero Academia the Movie: Futari no Hero Specials",
+      "airing": false,
+      "synopsis": "Short specials included with the Blu-ray\/DVD release of Boku no Hero Academia the Movie: Futari no Hero.",
+      "type": "Special",
+      "episodes": 2,
+      "score": 7.42,
+      "start_date": "2019-02-13T00:00:00+00:00",
+      "end_date": "2019-02-13T00:00:00+00:00",
+      "members": 95242,
+      "rated": "PG-13"
+    },
+    {
+      "mal_id": 28775,
+      "url": "https:\/\/myanimelist.net\/anime\/28775\/White_Fantasy",
+      "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/8\/69485.jpg?s=b7a439b954a659d6d4821882b33ea334",
+      "title": "White Fantasy",
+      "airing": false,
+      "synopsis": "Animated short for K-Swiss Asia, a subsidiary of American footwear company K-Swiss.",
+      "type": "Special",
+      "episodes": 1,
+      "score": 5.66,
+      "start_date": "2014-12-05T00:00:00+00:00",
+      "end_date": "2014-12-05T00:00:00+00:00",
+      "members": 1195,
+      "rated": "G"
+    },
+    {
+      "mal_id": 12221,
+      "url": "https:\/\/myanimelist.net\/anime\/12221\/Precure_All_Stars_Movie_New_Stage__Mirai_no_Tomodachi",
+      "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/8\/39609.jpg?s=5d5c2681935a4165f8e60bf5bc056ba8",
+      "title": "Precure All Stars Movie New Stage: Mirai no Tomodachi",
+      "airing": false,
+      "synopsis": "In the city of Minato Mirai in Yokohama, the news of Fusion's defeat by the Pretty Cures is the hottest topic in town! Girls everywhere are dressing up and acting as their favorite Cures. Only Sakagam...",
+      "type": "Movie",
+      "episodes": 1,
+      "score": 7.11,
+      "start_date": "2012-03-17T00:00:00+00:00",
+      "end_date": "2012-03-17T00:00:00+00:00",
+      "members": 4599,
+      "rated": "G"
+    },
+    {
+      "mal_id": 3543,
+      "url": "https:\/\/myanimelist.net\/anime\/3543\/Kiss_yori",
+      "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1675\/113874.jpg?s=ea4f8a041e438976b7a8bfc45ecc9269",
+      "title": "Kiss yori...",
+      "airing": false,
+      "synopsis": "Classes are not easy for Masato, a college student and aspiring novelist. Of course, with all the beautiful women in his life, it's hard to get studying done. There is the tough Rie, the cute Miku, th...",
+      "type": "OVA",
+      "episodes": 3,
+      "score": 5.82,
+      "start_date": "1999-07-09T00:00:00+00:00",
+      "end_date": "1999-11-19T00:00:00+00:00",
+      "members": 2156,
+      "rated": "Rx"
+    },
+    {
+      "mal_id": 21031,
+      "url": "https:\/\/myanimelist.net\/anime\/21031\/Precure_All_Stars_Movie_New_Stage_3__Eien_no_Tomodachi",
+      "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1923\/109733.jpg?s=63cf5d2c4d5fd690e65aab30b40f698d",
+      "title": "Precure All Stars Movie New Stage 3: Eien no Tomodachi",
+      "airing": false,
+      "synopsis": "Pretty Cure All Stars New Stage 3: Eien no Tomodachi is the sixth of the Pretty Cure All Stars crossover movie series featuring all current Pretty Cure characters and the last of the \"New Stage\" film,...",
+      "type": "Movie",
+      "episodes": 1,
+      "score": 7.29,
+      "start_date": "2014-03-15T00:00:00+00:00",
+      "end_date": "2014-03-15T00:00:00+00:00",
+      "members": 3400,
+      "rated": "G"
+    },
+    {
+      "mal_id": 33903,
+      "url": "https:\/\/myanimelist.net\/anime\/33903\/All-Free_kono_Natsu_Ichioshi_Monogatari_Campaign_Kokuchi_Douga",
+      "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/12\/87202.jpg?s=0bbd334c9774f93a2dd6398b88d21c5a",
+      "title": "All-Free kono Natsu Ichioshi Monogatari Campaign Kokuchi Douga",
+      "airing": false,
+      "synopsis": "A collaboration between Suntory's All-Free a zero-alcohol\/zero-calorie\/zero-carb beverage tasting like beer and Osomatsu-san.",
+      "type": "ONA",
+      "episodes": 12,
+      "score": 5.75,
+      "start_date": "2016-06-21T00:00:00+00:00",
+      "end_date": "2016-07-12T00:00:00+00:00",
+      "members": 1947,
+      "rated": "G"
+    },
+    {
+      "mal_id": 35367,
+      "url": "https:\/\/myanimelist.net\/anime\/35367\/Boku_no_Oldies_wa_All_Color",
+      "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/11\/85164.jpg?s=5a938638b1324701b61e89c4df710931",
+      "title": "Boku no Oldies wa All Color",
+      "airing": false,
+      "synopsis": "A minimalist adaptation of Seizo Watase's manga of the same name. It contains 5 stories of slow paced vignettes of romance whose only dialogue lies within the \"oldies\" being played as background music...",
+      "type": "OVA",
+      "episodes": 1,
+      "score": 0,
+      "start_date": "1987-12-10T00:00:00+00:00",
+      "end_date": "1987-12-10T00:00:00+00:00",
+      "members": 180,
+      "rated": "PG"
+    },
+    {
+      "mal_id": 42640,
+      "url": "https:\/\/myanimelist.net\/anime\/42640\/Wan_Sheng_Jie_2",
+      "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1040\/112897.jpg?s=9361fee645f2f0c840b761e9dc12d70f",
+      "title": "Wan Sheng Jie 2",
+      "airing": false,
+      "synopsis": "Second season of Wan Sheng Jie.",
+      "type": "ONA",
+      "episodes": 12,
+      "score": 7.97,
+      "start_date": "2020-10-14T00:00:00+00:00",
+      "end_date": "2020-12-16T00:00:00+00:00",
+      "members": 4054,
+      "rated": "PG-13"
+    },
+    {
+      "mal_id": 38555,
+      "url": "https:\/\/myanimelist.net\/anime\/38555\/Otome_Game_no_Hametsu_Flag_shika_Nai_Akuyaku_Reijou_ni_Tensei_shiteshimatta",
+      "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1483\/107061.jpg?s=00ffa3d80e5ff19d0f25964c4161eff8",
+      "title": "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta...",
+      "airing": false,
+      "synopsis": "Most people would prefer being the protagonist of a world full of adventure, be it in a game or in another world. But, unfortunately, a certain girl is not so lucky. Regaining the memories of her past...",
+      "type": "TV",
+      "episodes": 12,
+      "score": 7.49,
+      "start_date": "2020-04-05T00:00:00+00:00",
+      "end_date": "2020-06-21T00:00:00+00:00",
+      "members": 273665,
+      "rated": "PG-13"
+    },
+    {
+      "mal_id": 32160,
+      "url": "https:\/\/myanimelist.net\/anime\/32160\/Precure_All_Stars_Movie__Minna_de_Utau♪_-_Kiseki_no_Mahou",
+      "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/5\/77261.jpg?s=1353aaedd8190809e4631d5c7d87b7f8",
+      "title": "Precure All Stars Movie: Minna de Utau♪ - Kiseki no Mahou",
+      "airing": false,
+      "synopsis": "Mirai and Rico come to the human world to play, but are separated when the witch Sorciere and her servant Torauuma suddenly appear. Their aim is to acquire the tears of the 44 Precure girls, using the...",
+      "type": "Movie",
+      "episodes": 1,
+      "score": 6.93,
+      "start_date": "2016-03-19T00:00:00+00:00",
+      "end_date": "2016-03-19T00:00:00+00:00",
+      "members": 2682,
+      "rated": "G"
+    },
+    {
+      "mal_id": 37501,
+      "url": "https:\/\/myanimelist.net\/anime\/37501\/Hug_tto_Precure♡Futari_wa_Precure_Movie__All_Stars_Memories",
+      "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1538\/93935.jpg?s=4d4cc88318cf1280d61d7eef849d953e",
+      "title": "Hug tto! Precure♡Futari wa Precure Movie: All Stars Memories",
+      "airing": false,
+      "synopsis": "A vengeful teru teru bozu-like monster called Miden is stealing all of the Cures' magical powers and memories, turning them into helpless infants, barring Nagisa Misumi and Hana Nono. They must help t...",
+      "type": "Movie",
+      "episodes": 1,
+      "score": 7.52,
+      "start_date": "2018-10-27T00:00:00+00:00",
+      "end_date": "2018-10-27T00:00:00+00:00",
+      "members": 2756,
+      "rated": "G"
+    },
+    {
+      "mal_id": 34777,
+      "url": "https:\/\/myanimelist.net\/anime\/34777\/91_Days__Toki_no_Asase_Subete_no_Kinou_Ashita_Mata_Ashita",
+      "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/3\/87263.jpg?s=c1105a73e4954976a9901f7d21647647",
+      "title": "91 Days: Toki no Asase\/Subete no Kinou\/Ashita, Mata Ashita",
+      "airing": false,
+      "synopsis": "This episode contains three stories. The first story, \"Toki no Asase\" (Shoals of Time), will center on Nero and Vanno persuading Frate to skip mass with them and see the circus. The second story, \"Sub...",
+      "type": "Special",
+      "episodes": 1,
+      "score": 6.89,
+      "start_date": "2017-07-05T00:00:00+00:00",
+      "end_date": "2017-07-05T00:00:00+00:00",
+      "members": 40296,
+      "rated": "R"
+    },
+    {
+      "mal_id": 38847,
+      "url": "https:\/\/myanimelist.net\/anime\/38847\/Walls",
+      "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1459\/97549.jpg?s=0aa3a585e13943e556278b0e6d2fae7e",
+      "title": "Walls",
+      "airing": false,
+      "synopsis": "A man walks in a crowd. He cannot stand the crowd but to cover his ears. Then it disappears and he gets lost in a white void space. In that space there is no other man but himself. He had nothing to i...",
+      "type": "Movie",
+      "episodes": 1,
+      "score": 0,
+      "start_date": "2010-01-01T00:00:00+00:00",
+      "end_date": "2010-01-01T00:00:00+00:00",
+      "members": 95,
+      "rated": "G"
+    },
+    {
+      "mal_id": 40543,
+      "url": "https:\/\/myanimelist.net\/anime\/40543\/King_of_Prism_All_Stars__Prism_Show☆Best_Ten",
+      "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1957\/112742.jpg?s=3744e6b3cab83b3b3ed78554fce33051",
+      "title": "King of Prism All Stars: Prism Show☆Best Ten",
+      "airing": false,
+      "synopsis": "A collection of the lives from the King of Prism franchise. The best ten live scenes were chosen by the fans out of twenty-eight scenes. Also includes a new scene from King of Prism: Shiny Seven Stars...",
+      "type": "Movie",
+      "episodes": 1,
+      "score": 0,
+      "start_date": "2020-01-10T00:00:00+00:00",
+      "end_date": "2020-01-10T00:00:00+00:00",
+      "members": 329,
+      "rated": "PG-13"
+    },
+    {
+      "mal_id": 9979,
+      "url": "https:\/\/myanimelist.net\/anime\/9979\/Precure_All_Stars_Movie_DX3__Mirai_ni_Todoke_Sekai_wo_Tsunagu☆Nijiiro_no_Hana",
+      "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/12\/27934.jpg?s=7825815f0cdb39424db73e24ca924826",
+      "title": "Precure All Stars Movie DX3: Mirai ni Todoke! Sekai wo Tsunagu☆Nijiiro no Hana",
+      "airing": false,
+      "synopsis": "Precure 10th Anniversary Movie and 3rd Precure All Stars DX. Enemies are from all the Precure works.",
+      "type": "Movie",
+      "episodes": 1,
+      "score": 7.48,
+      "start_date": "2011-03-19T00:00:00+00:00",
+      "end_date": "2011-03-19T00:00:00+00:00",
+      "members": 4898,
+      "rated": "G"
+    },
+    {
+      "mal_id": 22759,
+      "url": "https:\/\/myanimelist.net\/anime\/22759\/Toaru_Kagaku_no_Railgun_S__Daiji_na_Koto_wa_Zenbu_Sentou_ni_Osowatta",
+      "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/2\/76119.jpg?s=31bad6a2ecaadfb6d82a29e23b3d81b3",
+      "title": "Toaru Kagaku no Railgun S: Daiji na Koto wa Zenbu Sentou ni Osowatta",
+      "airing": false,
+      "synopsis": "Bundled with the official visual book.",
+      "type": "OVA",
+      "episodes": 1,
+      "score": 6.8,
+      "start_date": "2014-03-25T00:00:00+00:00",
+      "end_date": "2014-03-25T00:00:00+00:00",
+      "members": 27452,
+      "rated": "PG-13"
+    },
+    {
+      "mal_id": 30103,
+      "url": "https:\/\/myanimelist.net\/anime\/30103\/Precure_All_Stars_Movie__Haru_no_Carnival♪_-_Ima_Koko_kara",
+      "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/11\/72109.jpg?s=0c124df8f5f2bf37a62efbdbb9005063",
+      "title": "Precure All Stars Movie: Haru no Carnival♪ - Ima Koko kara",
+      "airing": false,
+      "synopsis": "A dance video clip from the Precure All Stars: Haru no Carnival film. The clip shows the forty Precure warriors from the past anime series, as well as the upcoming series Go! Princess Precure. The son...",
+      "type": "Music",
+      "episodes": 1,
+      "score": 6.46,
+      "start_date": "2015-01-31T00:00:00+00:00",
+      "end_date": "2015-01-31T00:00:00+00:00",
+      "members": 1468,
+      "rated": "G"
+    },
+    {
+      "mal_id": 12497,
+      "url": "https:\/\/myanimelist.net\/anime\/12497\/Garakuta-doori_no_Stain__Epilogue",
+      "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/5\/67219.jpg?s=048d3decf1d7fcef9d6914790d09945d",
+      "title": "Garakuta-doori no Stain: Epilogue",
+      "airing": false,
+      "synopsis": "DVD only episode.",
+      "type": "OVA",
+      "episodes": 1,
+      "score": 6.18,
+      "start_date": "2003-10-11T00:00:00+00:00",
+      "end_date": "2003-10-11T00:00:00+00:00",
+      "members": 367,
+      "rated": "PG"
+    },
+    {
+      "mal_id": 375,
+      "url": "https:\/\/myanimelist.net\/anime\/375\/Bannou_Bunka_Neko-Musume_1998",
+      "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/10\/2875.jpg?s=b6ca8342c932164ccc795226d53e461f",
+      "title": "Bannou Bunka Neko-Musume (1998)",
+      "airing": false,
+      "synopsis": "Each episode centers on Nuku Nuku's adventures and mishaps in high school, and her relationship to students, the overall series plot centers on the evil Mishima Industries' scheme to dominate the worl...",
+      "type": "TV",
+      "episodes": 12,
+      "score": 6.51,
+      "start_date": "1998-01-07T00:00:00+00:00",
+      "end_date": "1998-03-25T00:00:00+00:00",
+      "members": 6345,
+      "rated": "PG-13"
+    },
+    {
+      "mal_id": 373,
+      "url": "https:\/\/myanimelist.net\/anime\/373\/Bannou_Bunka_Neko-Musume",
+      "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/7\/10720.jpg?s=09c562ffbfff28b54505c66ccff93d1c",
+      "title": "Bannou Bunka Neko-Musume",
+      "airing": false,
+      "synopsis": "Ryuunosuke Natsume is the son of genius inventor Kyusaku Natsume and overbearing Akiko Natsume, CEO of Mishima Heavy Industries. Using funds from his wife's company and the brain from his son's belove...",
+      "type": "OVA",
+      "episodes": 6,
+      "score": 6.68,
+      "start_date": "1992-10-21T00:00:00+00:00",
+      "end_date": "1994-05-25T00:00:00+00:00",
+      "members": 9727,
+      "rated": "PG-13"
+    },
+    {
+      "mal_id": 8150,
+      "url": "https:\/\/myanimelist.net\/anime\/8150\/Gegege_no_Kitarou__Chisougan",
+      "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/5\/84231.jpg?s=815b6da5374cda7e5cbc6752af6e8f47",
+      "title": "Gegege no Kitarou: Chisougan",
+      "airing": false,
+      "synopsis": "An abbreviated 12 minute version of episode 37 from the 1971 TV anime. This was shown as part of the summer 1980 Toei Manga Matsuri and uses entirely recycled footage. (Source: TSHS)",
+      "type": "Movie",
+      "episodes": 1,
+      "score": 5.88,
+      "start_date": "1980-07-12T00:00:00+00:00",
+      "end_date": "1980-07-12T00:00:00+00:00",
+      "members": 732,
+      "rated": "G"
+    },
+    {
+      "mal_id": 5306,
+      "url": "https:\/\/myanimelist.net\/anime\/5306\/Tales_of_Symphonia_The_Animation__Tethealla-hen",
+      "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/9\/23211.jpg?s=537060651f33d501a60fa75d5c4f1957",
+      "title": "Tales of Symphonia The Animation: Tethe'alla-hen",
+      "airing": false,
+      "synopsis": "The second arc of Tales of Symphonia that takes place in the flourishing world of Tethe'alla. This OVA takes place up to two-thirds of the game, prior to the Derris-Kharlan arc.",
+      "type": "OVA",
+      "episodes": 4,
+      "score": 7.49,
+      "start_date": "2010-03-25T00:00:00+00:00",
+      "end_date": "2011-02-25T00:00:00+00:00",
+      "members": 28978,
+      "rated": "PG-13"
+    }
+  ],
+  "last_page": 13
+}
 
 # Wireframes
 
