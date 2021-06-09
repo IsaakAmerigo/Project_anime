@@ -36,7 +36,7 @@ https://api.jikan.moe/v3/search/anime?q=all
 
 # Wireframes
 
-https://i.imgur.com/lAWnEjc.png
+https://i.imgur.com/lAWnEjc.png <br>
 https://i.imgur.com/ORCbdCZ.png
 
 # MVP
