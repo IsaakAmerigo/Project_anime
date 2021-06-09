@@ -40,10 +40,10 @@ https://i.imgur.com/lAWnEjc.png <br>
 https://i.imgur.com/ORCbdCZ.png
 
 # MVP
-DropDown bar allows user to select by genre.
-Then user can select a show from List and go to free viewing source.
-User can search Anime via name in search bar.
-User can click image of the series to watch show (or read manga) on free viewing platform.
+DropDown bar allows user to select by genre. <br>
+Then user can select a show from List and go to free viewing source. <br>
+User can search Anime via name in search bar. <br>
+User can click image of the series to watch show (or read manga) on free viewing platform. <br>
 
 
 
