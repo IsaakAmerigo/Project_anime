@@ -9,7 +9,7 @@ First Couch is a tool to keep these people up to date with all the latest anime,
 # API & Data Simple
 
 https://api.jikan.moe/v3/search/anime?q=all
-
+``` JSON
 {
   "request_hash": "request:search:d747e095ad925c8a99b7275c1d113f1b3c9e5f13",
   "request_cached": true,
@@ -30,17 +30,18 @@ https://api.jikan.moe/v3/search/anime?q=all
       "members": 93719,
       "rated": "PG-13"
     },
-    
+   ```
 
 # Wireframes
 
-https://i.imgur.com/lAWnEjc.png
+https://i.imgur.com/lAWnEjc.png <br>
+https://i.imgur.com/ORCbdCZ.png
 
 # MVP
-DropDown bar allows user to select by genre.
-Then user can select a show from List and go to free viewing source.
-User can search Anime via name in search bar.
-User can click image of the series to watch show (or read manga) on free viewing platform.
+DropDown bar allows user to select by genre. <br>
+Then user can select a show from List and go to free viewing source. <br>
+User can search Anime via name in search bar. <br>
+User can click image of the series to watch show (or read manga) on free viewing platform. <br>
 
 
 
@@ -49,6 +50,8 @@ Link community page to go along with each selection.
 
 
 # GOAL
+| Date | Task | Status |
+| --- | :---: |  :---: | 
 |June 4-7| Develop idea/Pitch | Complete
 |June 8| Get pitch approved | Incomplete
 |June 8| Core Application Structure (HTML,CSS,etc.) | Incomplete
@@ -62,9 +65,9 @@ https://i.imgur.com/ssDiQd4.png?1
 
 # TIMEFRAMES
 
-| Component | Priority | Estimated Time | 
-| --- | :---: |  :---: | :---: | :---: |
-| Initial HTML setup | H | 3hrs| 3hr |  
+| Component | Priority | Estimated Time | Actual Time |
+| --- | :---: |  :---: | :---: | 
+| Initial HTML setup | H | 3hrs| 3hrs |  
 | Axios set up | H | 3hrs| 3hrs |  
 | Render results | H | 3hrs| 3hrs |  
 | Other JS | H | 3hrs| 3hrs |  
