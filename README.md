@@ -9,7 +9,6 @@ First Couch is a tool to keep these people up to date with all the latest anime,
 # API & Data Simple
 
 https://api.jikan.moe/v3/search/anime?q=all
-
 ``` JSON
 {
   "request_hash": "request:search:d747e095ad925c8a99b7275c1d113f1b3c9e5f13",
@@ -31,7 +30,6 @@ https://api.jikan.moe/v3/search/anime?q=all
       "members": 93719,
       "rated": "PG-13"
     },
-   
    ```
 
 # Wireframes
