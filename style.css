@@ -1,6 +1,6 @@
 header {
-background: linear-gradient(to right, rgba(174, 226, 230, 0.571), orangered);
-border-radius: 6px;
+ background: linear-gradient(to right, rgba(174, 226, 230, 0.571), orangered);
+ border-radius: 6px; 
 }
 
 body{
@@ -10,12 +10,44 @@ body{
   height: 100vh;
 }
 
-h1 {
-  text-align: right;
-  margin-right: 80px;
-  color: rgb(174, 226, 230);
+#h1 {
+  background: linear-gradient(to right, rgba(174, 226, 230, 0.571), orangered);
+border-radius: 6px;
+  text-align: left;
+  margin-left: 0;
+  color: orangered;
+  font-family: 'Seymour One', sans-serif;
+
+}
+
+img {
+  max-width: 768px;
+  width: 98vw;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  width: 100vw;
+}
+
+nav {
+  margin: -60px 0 0 -20px;
+  display: flex;
+  justify-content: flex-end;
+  width: 100vw;
+  box-sizing: border-box;
+  padding: 8px;
+  
+}
+
+#dropdown {
+  /* color: rgba(174, 226, 230, 0.952); */
+  min-width: 200px;
   font-family: 'Seymour One', sans-serif;
 }
+
+/* ===============================================================
 
 #search {
   width: 200px;
@@ -32,9 +64,9 @@ align-items: flex-start;
   border-radius: 6px;
   font-family: 'Fredoka One', cursive;
   
-}
+ } 
 
-.droplist {
+ .droplist { 
   color: rgba(114, 229, 237, 0.961);
   margin-top: -80px;
 
@@ -79,13 +111,19 @@ display: block;
   top: 0;
   position: absolute;
 }
+=============================================================== */
 
-footer {
-  /* flex-direction: row-reverse;
+
+
+.footer {
+  display: flex;
+  flex-direction: row-reverse;
   justify-content: center;
-  align-items: flex-end; */
+  background-position: bottom;
   color: rgba(114, 229, 237, 0.961);
-  position: absolute;
+  position:fixed;
+  width:100%;
+  vertical-align: middle;
   bottom: 0;
   background: linear-gradient(to left, grey, rgba(255, 255, 255, 0.399));
   
@@ -96,4 +134,4 @@ footer {
  
   height: 20px;
   width: 20px;
-}
+} 
