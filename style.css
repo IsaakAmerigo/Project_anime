@@ -1,1 +1,144 @@
+header {
+ background: linear-gradient(to right, rgba(174, 226, 230, 0.571), orangered);
+ border-radius: 6px; 
+}
 
+body{
+  background-image: url(https://i.imgur.com/Kpfi0xI.jpg);
+  background-size: cover;
+  background-position: center;
+
+  height: 100vh;
+}
+
+#h1 {
+  background: linear-gradient(to right, rgba(174, 226, 230, 0.571), orangered);
+border-radius: 6px;
+  text-align: left;
+  margin-left: 0;
+  color: orangered;
+  font-family: 'Cinzel', serif;
+  /* font-family: 'Seymour One', sans-serif; */
+
+}
+
+img {
+  max-width: 768px;
+  width: 98vw;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  width: 100vw;
+}
+
+nav {
+  margin: -60px 0 0 -20px;
+  display: flex;
+  justify-content: flex-end;
+  width: 100vw;
+  box-sizing: border-box;
+  padding: 8px;
+  
+}
+
+#dropdown {
+  /* color: rgba(174, 226, 230, 0.952); */
+  min-width: 200px;
+  font-family: 'Seymour One', sans-serif;
+}
+
+/* ===============================================================
+
+#search {
+  width: 200px;
+  height: 25px;
+  font-family: 'Seymour One', sans-serif;
+align-items: flex-start;
+}
+
+#go {
+  width: 30px;
+  height: 30px;
+  color: black;
+  background-color: orangered;
+  border-radius: 6px;
+  font-family: 'Fredoka One', cursive;
+  
+ } 
+
+ .droplist { 
+  color: rgba(114, 229, 237, 0.961);
+  margin-top: -80px;
+
+}
+.droplist ul {
+  list-style: none;
+  
+}
+
+.droplist ul li {
+  background: #636161;
+  width: 100px;
+  border: 1px solid rgb(245, 245, 244);
+  height: 30px;
+  line-height: 50px;
+  text-align: center;
+  float: left;
+  color: #fff;
+  font-size: 14px;
+  position: relative;
+  
+}
+li {
+  justify-content: center;
+  align-items: center;
+}
+
+.droplist ul li:hover {
+  background: orangered;
+}
+
+.droplist ul ul{
+  display: none;
+}
+
+.droplist ul li:hover > ul {
+display: block;
+}
+
+.droplist ul ul ul{
+  margin-left: 170px;
+  top: 0;
+  position: absolute;
+}
+=============================================================== */
+
+
+
+.footer {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: center;
+  background-position: bottom;
+  color: rgba(114, 229, 237, 0.961);
+  position:fixed;
+  width:100%;
+  vertical-align: middle;
+  bottom: 0;
+  background: linear-gradient(to left, grey, rgba(255, 255, 255, 0.399));
+  
+  
+}
+
+#git {
+ 
+  height: 20px;
+  width: 20px;
+} 
+
+@media screen(min-width: 510px;) {
+  flex-direction: row;
+  flex-wrap: wrap;
+}
