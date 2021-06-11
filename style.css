@@ -7,6 +7,7 @@ body{
   background-image: url(https://i.imgur.com/Kpfi0xI.jpg);
   background-size: cover;
   background-position: center;
+
   height: 100vh;
 }
 
@@ -16,7 +17,8 @@ border-radius: 6px;
   text-align: left;
   margin-left: 0;
   color: orangered;
-  font-family: 'Seymour One', sans-serif;
+  font-family: 'Cinzel', serif;
+  /* font-family: 'Seymour One', sans-serif; */
 
 }
 
@@ -135,3 +137,8 @@ display: block;
   height: 20px;
   width: 20px;
 } 
+
+@media screen(min-width: 510px;) {
+  flex-direction: row;
+  flex-wrap: wrap;
+}
