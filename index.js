@@ -22,7 +22,9 @@ const appendWeeb = (doomerObj) => {
   console.log(doomerObj);
   doomerObj.forEach((doomer) => {
     const doomerOption = document.createElement('option');
+    // Post capturing the data from animeURL, have the titles in the dropdown after typing in search bar.
     doomerOption.innerText = doomer.title;
+    // When the title is picked then the image appear.
     doomerOption.value = doomer.image_url
     dropdown.append(doomerOption);
   })
@@ -37,7 +39,7 @@ const anime = async () => {
     const animeURL = `https://api.jikan.moe/v3/search/anime?q=${query}`
     // Response is the awaiting of the animeURL
     const response = await axios.get(animeURL)
-    // 
+    // Get the data from the animeURL. Get results from grabbing the animeURL.
     const doomerObj = response.data.results;
     console.log(doomerObj)
 
