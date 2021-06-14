@@ -64,6 +64,9 @@ flex-flow: row wrap;
   font-family: 'Fredoka One', cursive;
 } 
 
+#go:hover {
+  background-color: rgba(174, 226, 230, 0.571);
+}
 
 #pill {
   height: 40vh;
