@@ -200,8 +200,7 @@ main {
 
 /* =========================== */
 
-
-@media screen and (max-width: 300px) {
+@media screen and (min-width: 320px) {
   body {
     /* display: flex; */
     flex-direction: row;
@@ -217,6 +216,7 @@ main {
     align-items: center;
     width: 50vw;
     height: 70vh;
+    flex-flow: column wrap;
   }
   
   #image-container {
@@ -230,9 +230,54 @@ main {
   
   main {
     display: flex;
-    justify-content: flex-end;
-    align-self: flex-end;
+    justify-content: center;
+    align-self: center;
     width: 100vw;
+    margin-right: -400px;
+    flex-flow: column-reverse wrap;
+  }
+  
+  }
+
+
+@media screen and (max-width: 350px) {
+  body {
+    /* display: flex; */
+    flex-direction: row;
+    flex-wrap: wrap;
+    background: url(https://i.imgur.com/Kpfi0xI.jpg) no-repeat;
+  background-size: cover;
+  background-position: center;
+  margin: 0 auto;
+  }
+  
+  img {
+    justify-content: center;
+    align-items: center;
+    width: 50vw;
+    height: 70vh;
+    margin-right: -200px;
+    flex-flow: column-reverse wrap;
+
+  }
+  
+  #image-container {
+    flex-flow: column wrap;
+    justify-content: center;
+    align-self: center;
+    max-height: 50px;
+    max-width: 37px;
+    margin-right: -400px;
+    /* position: absolute; */
+  }
+  
+  main {
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    width: 100vw;
+    margin-right: -200px;
+    flex-flow: column wrap;
   }
   
   }
@@ -266,6 +311,8 @@ main {
     justify-content: flex-end;
     align-self: flex-end;
     width: 100vw;
+    margin-right: -400px;
+    flex-flow: column wrap;
   }
   
   }
@@ -299,6 +346,7 @@ main {
     justify-content: flex-end;
     align-self: flex-end;
     width: 100vw;
+   
   }
   
 
